@@ -1,4 +1,3 @@
-console.log("Node.js App has been executed!!");
 
 var http = require("http");
 var fs = require('fs');
